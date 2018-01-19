@@ -1,6 +1,7 @@
 {
   "name": "parcel-bundler",
   "version": "1.4.1",
+  "description": "Blazing fast, zero configuration web application bundler",
   "main": "index.js",
   "license": "MIT",
   "repository": {
@@ -15,6 +16,7 @@
     "babylon-walk": "^1.0.2",
     "browser-resolve": "^1.11.2",
     "chalk": "^2.1.0",
+    "child-process-promise": "^2.2.1",
     "chokidar": "^1.7.0",
     "commander": "^2.11.0",
     "cross-spawn": "^5.1.0",
